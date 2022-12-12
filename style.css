@@ -1,3 +1,21 @@
+body {
+    background-color: #FAFAFA;
+}
+
+.main-container {
+    background-color: lightgray;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+.main-title {
+    background-color: rgb(177, 175, 175);
+    margin-top: 0px;
+    padding: 4px;
+    text-align: center;
+}
+
 .recipe-img {
     height: auto;
     width: 700px;
